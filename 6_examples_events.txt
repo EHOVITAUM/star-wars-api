@@ -1,0 +1,7 @@
+{"action":"sendMessage-sns", "character":"Chewbacca"}
+
+{"action":"sendMessage-sns", "character":"Darth Vader"}
+
+{"action":"sendMessage-sns", "character":"Luke Skywalker"}
+
+{"action":"sendMessage-sns", "character":"R2-D2"}
